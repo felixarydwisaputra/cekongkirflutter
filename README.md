@@ -1,6 +1,6 @@
 # Cek Ongkir
 
-A new Flutter project.
+Projek flutter menghitung cek ongkir dengan integrasi API rajaongkir
 
 ## Getting Started
 
